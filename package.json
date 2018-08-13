@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/tuananhhedspibk/PromiseTut#readme",
   "dependencies": {
-    "bluebird": "^3.5.1"
+    "bluebird": "^3.5.1",
+    "needle": "^2.2.2",
+    "request": "^2.88.0"
   }
 }
